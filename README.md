@@ -1,4 +1,4 @@
-# Faux Data Analyst Agent
+# Data Analyst Agent
 
 A local-first professional business data-analysis agent built with Python, LangChain/LangGraph, PyTorch, RAG, DuckDB, MCP, OpenRouter or Hugging Face, ReportLab, and optional notification channels.
 

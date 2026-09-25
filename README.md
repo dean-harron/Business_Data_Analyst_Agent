@@ -97,7 +97,7 @@ It calculates recognized business metrics directly from the loaded dataset and s
 
 ## Important note
 
-This is an experimental prototype of the data analyst agent and should not be treated as a final product. Some parts of the codebase may need correction, and additional features may be required before it is production-ready.
+This is an experimental prototype of the data analyst agent and should not be treated as a final product. Some parts of the codebase may need correction, and additional features may be required before it is production-ready. An even more powerful multi-agent business intelligence analysis system with about 20 subagents and 500 capabilities is being prepared.
 
 ## License
 
